@@ -1,6 +1,7 @@
 baseURL = 'https://salpiras.github.io/'
 languageCode = 'en-uk'
 title = 'Sal on mobile'
+publishDir = 'docs'
 
 [module]
   # uncomment line below for temporary local development of module
