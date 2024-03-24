@@ -1,0 +1,105 @@
+portfolioitems:
+  # portfolio category
+  - title: CV
+    portfolioitem:
+      - name: Senior Software Engineer @ RealVNC
+        link: https://www.realvnc.com/en/connect/download/combined/
+        linktext: 'RealVNC website'
+        description: 'Notes of experience at realvnc'
+        start: 'April 2020'
+        authors:
+          - Cambridge, UK
+      - name: Software Engineer @ Intrasonics
+        description: 'Intrasonics is a company that offers audio watermarking and fingerprinting technology. It delivers solutions for content recognition, audience measurement, synchronised streaming, second-screen experiences and audio-triggered toys.
+        In 2021 it has been acquired by Ipsos, a global leader company in market research.
+        
+
+
+
+Development and deployment to App Stores of a mobile app, MediaCell (native for iOS and Android) disrupting the domestic TV audience measurement. It is used actively by one of the biggest worldwide market research companies, substituting any additional hardware and installation process required before. 
+Setting up an instrumentation testing environment with Espresso on Android and KIF on iOS running in a Jenkins CI environment. 
+Successfully lead the transition between closed manual installation channels to Play Store and App Store global distribution, coordinating the work of a small team of developers and ensuring the correct assessment of sprint planning, meeting the deadline requirements while heavily contributing to the design and development process.
+Continuous development and enhancement of the Android and iOS SDK and the C++ core layer of the audio watermarking and content recognition solutions, ensuring code robustness, a smooth developer experience and curating the Demo application (iOS and Android)
+Development of PoCs for customers, tailored on specific requirements (e.g. audio/video streaming synchronization for Perform Group)
+Design, prototyping and development of a space invaders-like augmented reality game using Unreal Engine and ARCore based on audio triggers
+Interviewing during the hire process and consequent mentoring of junior co-workers on mobile software development (iOS and Android) and giving induction into company projects.
+
+        
+        
+        
+        
+        '
+        start: 'Nov 2017'
+        end: 'April 2020'
+        authors:
+          - Cambridge, UK
+        link: http://intrasonics.com/
+        linktext: 'Intrasonics website'
+      - name: Mobile Developer @ Nfonix
+        start: 'May 2015'
+        end: 'Nov 2017'
+        description: 'Nfonix is a native mobile applications development agency now focused on B2B products related to the learning sector. This was my first job
+        after arriving in the UK and I felt welcomed from Dave, Sam and their great team. Here I focused on **Android** development primarily, but I also started working on **iOS** apps and
+        managed to create end-to-end solutions with the first **Python and later Go** backends. 
+        
+        
+        Being a small, fast-paced company working on a variety of projects at the same time, I got to
+        mature into a **generalist mentality** and advance my knowledge in a range of different domains and programming languages, starting to code also on the backend for commercial projects.
+
+
+        My first assignment was the end to end development of [Loyaltybook on Android](https://web.archive.org/web/20160208092928/https://play.google.com/store/apps/details?id=com.loyaltybook), a customer loyalty rewards application with a gaming element, which only existed on iOS at the time. 
+        That was a good segue to my previous startup experience and lots of fun as it had a lot of custom UI elements, although the company behind it is not in operation anymore.
+
+
+        I later continued working on the Socrates project which is now the main product of the company, and since we were deploying it to prisons and secure learning environments and existing
+        device lockdown solutions were quite expensive, I saw the opportunity to develop one in-house since we controlled the hardware, so I worked on a comprehensive MDM solution that
+        included QR Code or USB automatic configuration and sync, restricted app and browsing capabilities, and device admin policies deployment. This was a **deep dive into Android system utilities and APIs and app security**
+        and a very rewarding project in terms of learning (and business outcome), as I also got to develop a backend in **Flask and Mosquitto** (it sported custom push notifications via MQTT) which later was ported to
+        **Go** for an easier 1-click binary deployment process.'
+        authors:
+          - Cambridge, UK
+        link: https://www.socrates-software.com/socrates-360/
+        linktext: 'Nfonix/Socrates360 website'
+      - name: Android Developer @ Soundtracker
+        link: https://en.wikipedia.org/wiki/Soundtracker_(music_streaming)
+        start: 'Oct 2013'
+        end: 'Jan 2015'
+        description: 'Soundtracker was a **geo-localized music social network** that enabled users to build radio stations selecting across 32 millions tunes and stream it to nearby people and friends. 
+        It achieved a good level of success during 2015, counting more than 500000 monthly users. It was later sold to a big music publishing company (Sounday) in late 2016.
+        
+        
+        Here is where I learnt the ropes of mobile development, focusing on the ongoing redesign of the Soundtracker Android app at the time and the design, development and deployment to stores of
+        the **Google Glass Soundtracker app** which featured on the original Google Store.
+
+
+        I remember the excitement of working in the development program with the Google Glass team and talking about our
+        code directly to them. 
+        
+        
+        Google Glass is not around as a consumer product anymore, but that was just the start as I adapted to work with a variety of devices, adapting the app to **Google TV (now Android TV),
+        Amazon Kindle, the Barnes&Noble Nook device** and focused on automotive and **Android Auto** at some point.
+        As my university dissertation I created a spin-off app, Soundtracker for Runners, an Android fitness tracker with an integrated music streaming and recommendation service,
+        which talked to the Strava 3rd party APIs and ran on Google Glass as well.
+
+
+        Sadly the company struggled to monetise the product, so the original team was disbanded but looking at the silver lining this was the prompt for me to move to Cambridge, UK
+        '
+        authors:
+          - Cagliari, Italy
+  # portfolio category
+  - title: Volunteering
+    portfolioitem:
+      - name: Dev @ Techfugees Cambridge Hackathon 2018
+        description: 'The ESOLTHON was a hackathon over a weekend, kindly hosted by Makespace Cambridge. We were a team of 8, looking at challenges faced by people teaching English to refugees.
+        We created a simple google sites website to host and filter the resources available for the teachers, in order to quickly find resources that match a certain language proficiency level.
+        It was a great experience and a cross-functional team effort between education experts, software developers, language teachers and students.'
+        link: https://esolthon.wordpress.com/
+        linktext: 'Techfugees hackaton website'
+        authors:
+          - Cambridge, UK
+      - name: Mentor @ EU Code Week 2014
+        linktext: 'EU Code Week website'
+        link: https://codeweek.eu/
+        description: 'I taught an informal and very hands-on class introducing the Google Glass device and how to develop a simple Glassware using Volley and the Glass Development Kit from scratch.'
+        authors:
+          - Cagliari, Italy
