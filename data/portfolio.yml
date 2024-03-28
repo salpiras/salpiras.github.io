@@ -10,24 +10,29 @@ portfolioitems:
         authors:
           - Cambridge, UK
       - name: Software Engineer @ Intrasonics
-        description: 'Intrasonics is a company that offers audio watermarking and fingerprinting technology. It delivers solutions for content recognition, audience measurement, synchronised streaming, second-screen experiences and audio-triggered toys.
-        In 2021 it has been acquired by Ipsos, a global leader company in market research.
-        
+        description: 'Intrasonics was hands down one of the best teams I have ever worked with. Here I matured as a software developer and as a person, and the support I received was unvaluable.
+        Its greatest asset as a company is definitely the people - a team full of knowledgable, smart persons who are also very approachable and friendly made the team run through the sprints like a well oiled machine.
+        I grew up in all directions during my time here - from starting to master **Android** and **iOS** development to using **C++** for a common code core SDK between the two platforms, 
+        to creating an entire **end-to-end test pipeline** for the iOS app and write **Bash** and **Python** build scripts to **mentoring** new hires and **take part into interviews**.
 
 
+        Intrasonics is a company that offers audio watermarking and recognition technology. It delivers solutions for content recognition, audience measurement, synchronised streaming, second-screen experiences and audio-triggered toys.
+        In 2021 after a long successful collaboration as consultants, it has been acquired by its main customer Ipsos, a global leader company in market research.
+        
 
-Development and deployment to App Stores of a mobile app, MediaCell (native for iOS and Android) disrupting the domestic TV audience measurement. It is used actively by one of the biggest worldwide market research companies, substituting any additional hardware and installation process required before. 
-Setting up an instrumentation testing environment with Espresso on Android and KIF on iOS running in a Jenkins CI environment. 
-Successfully lead the transition between closed manual installation channels to Play Store and App Store global distribution, coordinating the work of a small team of developers and ensuring the correct assessment of sprint planning, meeting the deadline requirements while heavily contributing to the design and development process.
-Continuous development and enhancement of the Android and iOS SDK and the C++ core layer of the audio watermarking and content recognition solutions, ensuring code robustness, a smooth developer experience and curating the Demo application (iOS and Android)
-Development of PoCs for customers, tailored on specific requirements (e.g. audio/video streaming synchronization for Perform Group)
-Design, prototyping and development of a space invaders-like augmented reality game using Unreal Engine and ARCore based on audio triggers
-Interviewing during the hire process and consequent mentoring of junior co-workers on mobile software development (iOS and Android) and giving induction into company projects.
+        My main achievements here have been:
+         
+         + redesigning and deploying to the **Play and App Store of the MediaCell app** (previously distributed via manual enterprise programs), a passive audio audience measurement app used by major broadcasters, coordinating spring planning and work breakdowns.
+         
+         + maintaining and actively working on the core **C++ SDK** as we added more features and expanded its audio capabilities
 
-        
-        
-        
-        
+         + setting up an **instrumentation testing environment** with Espresso on Android and KIF on iOS running in a Jenkins CI environment. 
+         
+         + interviewing during the hire process and consequent mentoring of junior co-workers on mobile software development (iOS and Android).
+         
+         + direct **interaction with major customers**, coming up with PoCs tailored on specific requirements (e.g. audio/video streaming sync for Perform Group)
+         
+         + design, prototyping and development of a space invaders-like augmented reality game in C++ using Unreal Engine and ARCore based on audio triggers
         '
         start: 'Nov 2017'
         end: 'April 2020'
@@ -38,8 +43,7 @@ Interviewing during the hire process and consequent mentoring of junior co-worke
       - name: Mobile Developer @ Nfonix
         start: 'May 2015'
         end: 'Nov 2017'
-        description: 'Nfonix is a native mobile applications development agency now focused on B2B products related to the learning sector. This was my first job
-        after arriving in the UK and I felt welcomed from Dave, Sam and their great team. Here I focused on **Android** development primarily, but I also started working on **iOS** apps and
+        description: 'This was my first job after arriving in the UK and I felt welcomed from Dave, Sam and their great team. Nfonix is a native mobile applications development agency now focused on B2B products related to the learning sector. Here I focused on **Android** development primarily, but I also started working on **iOS** apps and
         managed to create end-to-end solutions with the first **Python and later Go** backends. 
         
         
@@ -64,12 +68,12 @@ Interviewing during the hire process and consequent mentoring of junior co-worke
         link: https://en.wikipedia.org/wiki/Soundtracker_(music_streaming)
         start: 'Oct 2013'
         end: 'Jan 2015'
-        description: 'Soundtracker was a **geo-localized music social network** that enabled users to build radio stations selecting across 32 millions tunes and stream it to nearby people and friends. 
-        It achieved a good level of success during 2015, counting more than 500000 monthly users. It was later sold to a big music publishing company (Sounday) in late 2016.
-        
-        
-        Here is where I learnt the ropes of mobile development, focusing on the ongoing redesign of the Soundtracker Android app at the time and the design, development and deployment to stores of
+        description: 'Here is where I learnt the ropes of mobile development, focusing on the ongoing redesign of the Soundtracker Android app at the time and the design, development and deployment to stores of
         the **Google Glass Soundtracker app** which featured on the original Google Store.
+        
+        
+        Soundtracker was a **geo-localized music social network** that enabled users to build radio stations selecting across 32 millions tunes and stream it to nearby people and friends. 
+        It achieved a good level of success during 2015, counting more than 500000 monthly users. It was later sold to a big music publishing company (Sounday) in late 2016.
 
 
         I remember the excitement of working in the development program with the Google Glass team and talking about our
