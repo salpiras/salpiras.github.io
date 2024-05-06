@@ -87,6 +87,7 @@ portfolioitems:
         link: https://www.socrates-software.com/socrates-360/
         linktext: 'Nfonix/Socrates360 website'
       - name: Android Developer @ Soundtracker
+        linktext: 'Soundtracker Wikipedia Page'
         link: https://en.wikipedia.org/wiki/Soundtracker_(music_streaming)
         start: 'Oct 2013'
         end: 'Jan 2015'
