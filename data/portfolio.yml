@@ -5,7 +5,29 @@ portfolioitems:
       - name: Senior Software Engineer @ RealVNC
         link: https://www.realvnc.com/en/connect/download/combined/
         linktext: 'RealVNC website'
-        description: 'Notes of experience at realvnc'
+        description: 'At RealVNC I continued growing in all directions and developed into a business aware, multi-team asset T-shaped engineer - 
+          while continuing focusing on mobile platforms with **Android systems deep expertise and iOS as a close second**, I helped multiple teams
+          around different projects, from C++ core features, to **Emscripten** C++/Javascript product ports and even **Java Spring Boot microservices** and 
+          Typescript **Vue.js** frontends for a **WebRTC** browser based remote access solution. 
+          
+          
+          On the mobile front, I proposed, designed and even at times lead entire features and product cycles, maturing greatly in my ability to break down
+          features in smaller tasks and **pitch costed features to the product team based on competitor comparison or feature requests**, while coordinating
+          communications between teams for cross-functional ones.
+          
+          
+          My latest biggest achievements at RealVNC have been:
+
+          + Advocating for, pitching, scoping, architecting and development of the **Android Remote Control** feature for the RealVNC Server and the release of both the **Android
+            and iOS RealVNC server apps**, and their improvements in terms of UX leading to triple digits percentage increases in downloads. 
+
+          + There were no RealVNC mobile servers when I joined so it was an exciting time and a good opportunity to develop my architecture advocacy - both apps
+            are based on a modern, testable **MVVM architecture** and use **Jetpack Compose** on Android and **SwiftUI** on iOS. 
+
+          + My passion for **mentoring** grew as well as the team
+            expanded to cover these efforts and I onboarded two graduate engineers at the same time in a sistematic way with a **great focus on 1-1 pair programming and teaching notions from first principles**
+            with great results thanks to them being brilliant, even setting the scene to some promotions. Kudos to them who know are on the way to master both platforms! There is nothing more rewarding than seeing the growth of your teaching investment both on a business and personal perspective.  
+        '
         start: 'April 2020'
         authors:
           - Cambridge, UK
@@ -13,7 +35,7 @@ portfolioitems:
         description: 'Intrasonics was hands down one of the best teams I have ever worked with. Here I matured as a software developer and as a person, and the support I received was unvaluable.
         Its greatest asset as a company is definitely the people - a team full of knowledgable, smart persons who are also very approachable and friendly made the team run through the sprints like a well oiled machine.
         I grew up in all directions during my time here - from starting to master **Android** and **iOS** development to using **C++** for a common code core SDK between the two platforms, 
-        to creating an entire **end-to-end test pipeline** for the iOS app and write **Bash** and **Python** build scripts to **mentoring** new hires and **take part into interviews**.
+        to creating an entire **end-to-end test pipeline** for the iOS app and write **Bash** and **Python** build scripts to **mentoring** new hires and **take part in interview panels**.
 
 
         Intrasonics is a company that offers audio watermarking and recognition technology. It delivers solutions for content recognition, audience measurement, synchronised streaming, second-screen experiences and audio-triggered toys.
@@ -28,11 +50,11 @@ portfolioitems:
 
          + setting up an **instrumentation testing environment** with Espresso on Android and KIF on iOS running in a Jenkins CI environment. 
          
-         + interviewing during the hire process and consequent mentoring of junior co-workers on mobile software development (iOS and Android).
+         + **interviewing** during the hire process and consequent mentoring of junior co-workers on mobile software development (iOS and Android).
          
-         + direct **interaction with major customers**, coming up with PoCs tailored on specific requirements (e.g. audio/video streaming sync for Perform Group)
+         + direct **interaction with major customers**, coming up with **proof of concept apps** tailored on specific requirements (e.g. audio/video streaming sync for Perform Group)
          
-         + design, prototyping and development of a space invaders-like augmented reality game in C++ using Unreal Engine and ARCore based on audio triggers
+         + design, prototyping and development of a space invaders-like augmented reality game set in your living room in C++ using **Unreal Engine and ARCore** based on **audio triggers**
         '
         start: 'Nov 2017'
         end: 'April 2020'
