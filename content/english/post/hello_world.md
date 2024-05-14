@@ -1,6 +1,6 @@
 +++
 author = "Salvatore Piras"
-title = "Hello world!"
+title = "First commit"
 date = "2024-02-22"
 description = "First article"
 tags = [
@@ -8,6 +8,6 @@ tags = [
 ]
 +++
 
-Hello world!
+Hi there! 
 
-This is the first commit.
+I'll start publishing here some articles and tutorials on topics I encountered along the years, but for now here's this fancy placeholder.
